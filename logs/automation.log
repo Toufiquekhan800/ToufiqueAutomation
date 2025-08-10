@@ -1,0 +1,14 @@
+2025-08-10 10:51:23 INFO  TS001_AccountReg:19 - **Test TS001_AccountReg start**
+2025-08-10 10:51:23 INFO  TS001_AccountReg:21 - **Click on Registration**
+2025-08-10 10:51:24 INFO  TS001_AccountReg:33 - **Click on Register**
+2025-08-10 10:51:49 INFO  TS002_AccountLogin:14 - ***LogIn Test Case Start***
+2025-08-10 10:51:50 INFO  TS002_AccountLogin:16 - ***Filled the userName***
+2025-08-10 10:51:50 INFO  TS002_AccountLogin:18 - ***Filled the Password***
+2025-08-10 10:51:50 INFO  TS002_AccountLogin:20 - ***Logging***
+2025-08-10 12:24:55 INFO  TS001_AccountReg:19 - **Test TS001_AccountReg start**
+2025-08-10 12:24:55 INFO  TS001_AccountReg:21 - **Click on Registration**
+2025-08-10 12:24:56 INFO  TS001_AccountReg:33 - **Click on Register**
+2025-08-10 12:25:20 INFO  TS002_AccountLogin:14 - ***LogIn Test Case Start***
+2025-08-10 12:25:20 INFO  TS002_AccountLogin:16 - ***Filled the userName***
+2025-08-10 12:25:21 INFO  TS002_AccountLogin:18 - ***Filled the Password***
+2025-08-10 12:25:21 INFO  TS002_AccountLogin:20 - ***Logging***
